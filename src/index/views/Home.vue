@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <img class="logo" alt="Vue logo" src="../assets/logo.png" />
+    <img class="logo" alt="Vue logo" src="@/assets/logo.png" />
+    <h1>This is an home page of [Index]</h1>
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
